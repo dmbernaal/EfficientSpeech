@@ -74,3 +74,11 @@ class EfficientSpeech(nn.Module):
 
 if __name__ == '__main__':
     print('Inference')
+"""
+PAGES
+https://github.com/roatienza/efficientspeech/blob/main/utils/tools.py#L316
+https://github.com/roatienza/efficientspeech/blob/main/demo.py
+https://github.com/roatienza/efficientspeech/blob/main/layers/networks.py#L307
+https://github.com/roatienza/efficientspeech/blob/main/layers/networks.py#L15
+https://github.com/roatienza/efficientspeech/blob/main/layers/blocks.py#L32
+"""
